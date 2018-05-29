@@ -10,7 +10,7 @@
   ],
   "users": [
     { "id": 1, "email": "pepe@gmail.com", "name": "pepe" },
-   { "id": 2, "email": "juan@gmail.com", "name": "juan" },
+    { "id": 2, "email": "juan@gmail.com", "name": "juan" }
   ],
   "profile": {
     "name": "typicode"
